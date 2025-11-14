@@ -76,7 +76,7 @@ python test.py --config_file configs/AllDay/vit_base.yml TEST.WEIGHT 'your_model
 
 Ablation study:
 <div style="text-align: center;">
-  <img src="./files/ablation_study.jpg" width="500">
+  <img src="./files/ablation_study.jpg" width="700">
 </div>
 
 
