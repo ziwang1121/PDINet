@@ -27,7 +27,7 @@ With the data collection and processing complete, AllDay843 dataset contains 91,
 - AllDay843 involves the challenges introduced by multiple modalities and modality-missing.
 
 <div style="text-align: center;">
-  <img src="./files/dataset_demo.jpg" width="450">
+  <img src="./files/dataset_demo.jpg" width="950">
 </div>
 
 
@@ -38,7 +38,7 @@ We further construct derived datasets based on the AllDay843 dataset. (1) We use
  Detailed settings of datasets:
 
 <div style="text-align: center;">
-  <img src="./files/dataset_settings.jpg" width="500">
+  <img src="./files/dataset_settings.jpg" width="950">
 </div>
 
 ### Download
@@ -83,7 +83,7 @@ Ablation study:
 
 Results on AllDay843 and AllDay843-G:
 <div style="text-align: center;">
-  <img src="./files/multi_modal_comparison.jpg">
+  <img src="./files/multi_modal_comparison.jpg" width="800">
 </div>
 
 
